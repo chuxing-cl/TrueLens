@@ -2,7 +2,7 @@
 
 TrueLens 是一个基于 **原生 TypeScript + Vite + ECharts** 的科技感数据可视化大屏项目。无任何前端框架（无 React / Vue / Angular），所有能力（路由、状态管理、请求拦截、日志、Mock）均为手写实现，适合学习大屏底层原理与工程化实践。
 
-![数据大屏](pic/s1.png)
+![数据大屏](pic/S1.png)
 ![数据大屏](pic/S2.png)
 
 ## 特性
