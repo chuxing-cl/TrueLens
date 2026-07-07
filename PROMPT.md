@@ -4,6 +4,9 @@
 
 请使用 **Vanilla TypeScript + Vite 6 + ECharts 5** 技术栈，从零创建一个可直接运行的数据可视化大屏项目，最后自动在默认浏览器中打开大屏预览页面。
 
+![数据大屏](pic/s1.png)
+![数据大屏](pic/S2.png)
+
 ## 2. 技术约束（必须严格遵循）
 
 - **禁止使用 React、Vue、Angular 等框架**，纯原生 TS + DOM 操作
